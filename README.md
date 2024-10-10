@@ -18,3 +18,4 @@ Alternative flows:
 Incorrect Results: Inspector dismisses the result.
 No Defect found: Inspector continues waiting for an alert.
 
+![Inspector Use Case Diagram](useCase_Diagrams/ManagerUseCaseDiagram.png)
